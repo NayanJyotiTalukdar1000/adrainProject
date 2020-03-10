@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "adrain": {
+    "aDrailPr0Ject": {
       "root": "",
       "sourceRoot": "src",
       "projectType": "application",
@@ -13,7 +13,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/adrain",
+            "outputPath": "dist/aDrailPr0Ject",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": "src/polyfills.ts",
@@ -50,18 +50,18 @@
         "serve": {
           "builder": "@angular-devkit/build-angular:dev-server",
           "options": {
-            "browserTarget": "adrain:build"
+            "browserTarget": "aDrailPr0Ject:build"
           },
           "configurations": {
             "production": {
-              "browserTarget": "adrain:build:production"
+              "browserTarget": "aDrailPr0Ject:build:production"
             }
           }
         },
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "adrain:build"
+            "browserTarget": "aDrailPr0Ject:build"
           }
         },
         "test": {
@@ -95,7 +95,7 @@
         }
       }
     },
-    "adrain-e2e": {
+    "aDrailPr0Ject-e2e": {
       "root": "e2e/",
       "projectType": "application",
       "architect": {
@@ -103,11 +103,11 @@
           "builder": "@angular-devkit/build-angular:protractor",
           "options": {
             "protractorConfig": "e2e/protractor.conf.js",
-            "devServerTarget": "adrain:serve"
+            "devServerTarget": "aDrailPr0Ject:serve"
           },
           "configurations": {
             "production": {
-              "devServerTarget": "adrain:serve:production"
+              "devServerTarget": "aDrailPr0Ject:serve:production"
             }
           }
         },
@@ -123,5 +123,5 @@
       }
     }
   },
-  "defaultProject": "adrain"
+  "defaultProject": "aDrailPr0Ject"
 }

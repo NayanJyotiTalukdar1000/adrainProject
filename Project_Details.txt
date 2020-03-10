@@ -1,0 +1,74 @@
+Step 1:
+=======
+Install Postman
+https://app.getpostman.com/join-team?invite_code=d37b85fa3eeb65be6d604452b4492d8f
+
+UN: N1yajWelC0me
+PWD: @talukdar1000
+
+Step 2:
+=======
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+Configur Bitbucket:
+-------------------
+https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud#create-the-repository
+
+https://www.atlassian.com/git/tutorials/install-git
+
+https://gitforwindows.org/
+
+Tutorial for Git:
+https://githowto.com/staging_changes
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Tutorial For Git:
+~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~
+https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud#create-the-repository
+
+Bitbuket Login URL:
+-------------------
+
+https://bitbucket.org/dashboard/overview
+
+Username: talukdarNjt1990 
+Workspace IDtalukdarNjt1990 
+
+git clone https://talukdarNjt1990@bitbucket.org/talukdarNjt1990/adrain.git
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Project URL:
+-------------
+
+http://demo.themefisher.com/adrian/
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+Project Installation: Angular v-6
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+npm install -g @angular/cli@6
+
+
+
+
+
+
++++++++++++++++++++++++++++++++
+Github.com
+
+https://github.com/join?source=header-home
+NayanJyotiTalukdar1000
+
+https://github.com/NayanJyotiTalukdar1000/angululuBaby.git
